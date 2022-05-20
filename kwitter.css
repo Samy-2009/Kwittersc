@@ -1,0 +1,25 @@
+body
+{
+    background-image:url(imagen.jpg);
+    background-position:center;
+    background-size:cover;
+    text-align:center;
+    
+}
+h1{
+    color: white;
+    Font-family:cursive;
+}
+h2{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+   color: cornsilk;
+}
+img{
+    width:70;
+  height:70;
+  border-radius: 25%;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: gainsboro;
+}
